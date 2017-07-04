@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1497023455 source:f:\srikanth\code blocks\mingw\my projects\spoj\ngm.cpp
+	<iostream>
+
+1497053198 source:f:\srikanth\code blocks\mingw\my projects\spoj\etf.cpp
+	<iostream>
+
+1497070050 source:f:\srikanth\code blocks\mingw\my projects\spoj\etfs.cpp
+	<iostream>
+	<cstring>
+
+1497415618 source:f:\srikanth\code blocks\mingw\my projects\spoj\fibosum.cpp
+	<iostream>
+
+1497851324 source:f:\srikanth\code blocks\mingw\my projects\spoj\julka.cpp
+	<iostream>
+
+1497856744 source:f:\srikanth\code blocks\mingw\my projects\spoj\atoms.cpp
+	<iostream>
+
+1497862793 source:f:\srikanth\code blocks\mingw\my projects\spoj\bishop.cpp
+	<iostream>
+
+1498044051 source:f:\srikanth\code blocks\mingw\my projects\spoj\matches.cpp
+	<iostream>
+
+1498148898 source:f:\srikanth\code blocks\mingw\my projects\spoj\lastdig2.cpp
+	<iostream>
+	<cmath>
+
+1498226247 source:f:\srikanth\code blocks\mingw\my projects\spoj\edist.cpp
+	<iostream>
+
+1498239877 source:f:\srikanth\code blocks\mingw\my projects\spoj\zsum.cpp
+	<iostream>
+
+1498242599 source:f:\srikanth\code blocks\mingw\my projects\spoj\absys.cpp
+	<iostream>
+
+1498281785 source:f:\srikanth\code blocks\mingw\my projects\spoj\favdice.cpp
+	<iostream>
+	<cstdio>
+	<iomanip>
+
+1498311034 source:f:\srikanth\code blocks\mingw\my projects\spoj\lcpcp2.cpp
+	<iostream>
+
+1498808737 source:f:\srikanth\code blocks\mingw\my projects\spoj\najpf.cpp
+	<iostream>
+
+1498819126 source:f:\srikanth\code blocks\mingw\my projects\spoj\stamps.cpp
+	<iostream>
+
+1498826234 source:f:\srikanth\code blocks\mingw\my projects\spoj\marbles.cpp
+	<iostream>
+
+1498835051 source:f:\srikanth\code blocks\mingw\my projects\spoj\facefrnd.cpp
+	<iostream>
+
+1498838725 source:f:\srikanth\code blocks\mingw\my projects\spoj\quadarea.cpp
+	<iostream>
+	<cmath>
+
+1499075479 source:f:\srikanth\code blocks\mingw\my projects\spoj\rootciph.cpp
+	<iostream>
+	<cstdio>
+
+1499190192 source:f:\srikanth\code blocks\mingw\my projects\spoj\permut2.cpp
+	<iostream>
+
